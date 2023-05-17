@@ -3,7 +3,7 @@ import pengguna.*;
 class Main {
     public static void main(String[] args) {
 
-        Mhs mhs = new Mhs("ini_username", "ini_password");
+        Mhs mhs = new Mhs("username", "password");
 
         mhs.setNama("Nova Alvin Utomo");
         mhs.setNim("G.111.20.0028");

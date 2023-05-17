@@ -7,7 +7,8 @@ public class Mhs extends User{
 
 
     public Mhs(String username, String password){
-        super(username, password);}
+        super(username, password);
+    }
 
 public void setNama(String nama){
     this.Nama = nama;
