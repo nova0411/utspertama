@@ -4,9 +4,9 @@ public class User{
     private String username;
     private String password;
 
-    public User(String arg_username, String arg_password){
-        this.username = arg_username;
-        this.password = arg_password;
+    public User(String ausername, String password){
+        this.username = username;
+        this.password = password;
     }
     
     public void setUsername(String username){
